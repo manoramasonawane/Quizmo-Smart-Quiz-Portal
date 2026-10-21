@@ -1,0 +1,6 @@
+{
+  "name": "Quizmo – Smart Quiz & Assessment Platform",
+  "description": "Full-stack assessment platform featuring multi-dimensional evaluation metrics (confidence indexing, attempt patterns, time-variance analysis) and educator diagnostic analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
